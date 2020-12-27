@@ -3,7 +3,7 @@
     advent of code 2020 Day 6 Challenge 1
 '''
 
-res, check, path = 0, '', 'D:/Programme/_current/advent-of-code/2020/day6-input.txt'
+res, check, path = 0, '', 'H:/OneDrive/Programme/_current/adventofcode/2020/day6-input.txt'
 with open(path, 'r') as f:  
     lines = f.readlines()
     last = lines[-1]
