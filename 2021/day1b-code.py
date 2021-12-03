@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-    advent of code 2021 Day 1 Challenge 1 Part two
+    advent of code 2021 Day 1 Challenge 2
 '''
 
 with open('K:/OneDrive/Programme/_current/advent-of-code/2021/day1-input.txt', 'r') as f:
